@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8cebfa4-8c9c-4cfa-99f3-84a18f0b628e" name="Default Changelist" comment="" />
+    <list default="true" id="a8cebfa4-8c9c-4cfa-99f3-84a18f0b628e" name="Default Changelist" comment="Initial">
+      <change afterPath="$PROJECT_DIR$/MySQLscripts/items.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQLscripts/subscriptions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +20,11 @@
     </option>
   </component>
   <component name="GOROOT" path="C:\Users\zvdenis\go\go1.15.2" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hry2TMtvurNRYyg09h6Uugrbck" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,8 +35,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MySQLscripts" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zvdenis\go\src\awesomeProject\MySQLscripts" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="go build awesomeProject" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -49,6 +62,10 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
   </component>
   <component name="WindowStateProjectService">
     <state x="752" y="471" key="#GOROOT" timestamp="1600783443183">
@@ -75,6 +92,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1220" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1601057239837" />
+    <state x="822" y="438" key="Github.ShareDialog" timestamp="1601113205458">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="822" y="438" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601113205458" />
+    <state x="693" y="245" key="Github.UntrackedFilesDialog" timestamp="1601113213012">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="245" key="Github.UntrackedFilesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601113213012" />
     <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1601112887788">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -111,6 +136,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1600934297375" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1601113237988">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1601113237988" />
     <state width="968" height="548" key="XDebugger.FullValuePopup" timestamp="1600893365551">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
