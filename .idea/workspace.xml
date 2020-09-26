@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8cebfa4-8c9c-4cfa-99f3-84a18f0b628e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Users\zvdenis\go\go1.15.2" />
+  <component name="ProjectId" id="1hry2TMtvurNRYyg09h6Uugrbck" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build awesomeProject" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build awesomeProject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="752" y="471" key="#GOROOT" timestamp="1600783443183">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="752" y="471" key="#GOROOT/0.0.1920.1080@0.0.1920.1080" timestamp="1600783443183" />
+    <state x="341" y="381" key="#SQL_Dialects" timestamp="1600873676565">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="341" y="381" key="#SQL_Dialects/0.0.1920.1080@0.0.1920.1080" timestamp="1600873676565" />
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600874185551">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1600874185551" />
+    <state width="907" height="466" key="DebuggerActiveHint" timestamp="1601112875496">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="907" height="466" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1601112875496" />
+    <state x="827" y="290" key="EnvironmentVariablesDialog" timestamp="1600802237711">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="827" y="290" key="EnvironmentVariablesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1600802237711" />
+    <state x="1220" y="295" key="FileChooserDialogImpl" timestamp="1601057239837">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1220" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1601057239837" />
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1601112887788">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601112887788" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1601112887788">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601112887788" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1601112887788">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601112887788" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1601112887788">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601112887788" />
+    <state width="1877" height="275" key="GridCell.Tab.1.bottom" timestamp="1601112887668">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601112887668" />
+    <state width="1877" height="275" key="GridCell.Tab.1.center" timestamp="1601112887668">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601112887668" />
+    <state width="1877" height="275" key="GridCell.Tab.1.left" timestamp="1601112887668">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601112887668" />
+    <state width="1877" height="275" key="GridCell.Tab.1.right" timestamp="1601112887668">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601112887668" />
+    <state x="461" y="185" key="SettingsEditor" timestamp="1600934297375">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1600934297375" />
+    <state width="968" height="548" key="XDebugger.FullValuePopup" timestamp="1600893365551">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="968" height="548" key="XDebugger.FullValuePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1600893365551" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1600935614745">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1600935614745" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/AvitoWatcher/Watcher.go</url>
+          <line>26</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
